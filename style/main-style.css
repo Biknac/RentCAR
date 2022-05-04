@@ -195,6 +195,7 @@ min-width: 340px;
     color: var(--second-text-color);
     background: #F4C84B;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .registration-form{
